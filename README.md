@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preranabisen&label=Profile%20views&color=0e75b6&style=flat" alt="preranabisen" /> </p>
 
-- 🔭 I’m currently working on **Web site design and Android Mobile Application**
+- 🔭 I’m currently working on **Web Development & Android App Development**
 
-- 🌱 I’m currently learning **Reactjs and React Native**
+- 🌱 I’m currently learning **Reactjs & React Native**
 
 - 📫 How to reach me **bisen.prerna31@gmail.com**
 
